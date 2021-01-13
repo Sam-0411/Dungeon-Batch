@@ -1,0 +1,40 @@
+** Version 0.1
+- Création de l'interface du donjon
+- Ajout du niveau 3.
+
+** Version 0.2
+- Ajout des monstres au niveau 3
+- Ajout du système de vie
+
+** Version 0.3
+- Ajout d'un système d'interupteur au niveau 3
+- Ajout de la carte
+
+** Version 0.4
+- Ajout du launcher
+- Ajout de l'interface de choix de personnage
+
+** Version 0.5
+- Ajout de la phase de narration
+
+** Version 0.6
+- Ajout d'un écran de chargement
+- Grosse optimisation de la phase de narration
+
+** Version 0.7
+- Ajout de l'écran d'acceuil avec image intégré.
+
+** Version 0.8
+- Ajout du niveau 2 (en entier) !
+
+** Version 0.9
+- Ajout d'un processus de sauvegarde
+- Ajout de l'inventaire (beta)
+
+** Version 0.10
+- Enorme amélioration sur la rapidité des déplacements du personnage.
+
+** Version 0.11
+- Ajout du niveau 1 !
+
+** Versin 0.12
